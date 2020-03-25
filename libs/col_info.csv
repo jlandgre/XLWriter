@@ -1,0 +1,5 @@
+Name,Description,Units,XLWidth,XLFormat,df_Name,Parent
+row_order,row (index),,10,0,df,
+Company,Company Name,,12,@,df,
+Product,Product Name,,15,@,df,
+Revenue,Annual Revenue,$US,17,"$#,##0.00",df,
